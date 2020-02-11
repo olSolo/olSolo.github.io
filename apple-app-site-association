@@ -5,8 +5,8 @@
       {
         "appID": "HCQ7S62J5Z.ru.kingbird.smp",
         "paths": [
-          "/smpbank/restorePasswordAppeal/*/",
-          "/smpbank/verifyEmail/*/*/"
+          "/smpbank/restorePasswordAppeal/*",
+          "/smpbank/verifyEmail/*"
         ]
       }
     ]
