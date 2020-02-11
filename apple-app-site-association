@@ -6,7 +6,7 @@
         "appID": "HCQ7S62J5Z.ru.kingbird.smp",
         "paths": [
           "/passwordRecovery/emailSent/tempPassword/*",
-          "confirmationEmail/*"
+          "/confirmationEmail/*"
         ]
       }
     ]
